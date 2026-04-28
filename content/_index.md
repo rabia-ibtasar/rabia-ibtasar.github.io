@@ -33,12 +33,12 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: square # Options: circle (default), square, rounded
-  - block: markdown
- #   content:
- #     title: '📚 My Research'
-  #    subtitle: ''
+ # - block: markdown
+    #content:
+     # title: '📚 My Research'
+    #  subtitle: ''
    #   text: |-
-#       My research sits at the intersection of Human-Computer Interaction, computing education, and learning sciences. I design and study        learning environments that #broaden participation in computing, particularly for girls. Grounded in the DICE framework, my work            examines how knowledge, value, and belonging can be supported #through both material and social scaffolds. Through the MyTurn              social robotics program, I explore how collaborative design, storytelling, and mentorship can #reshape how young learners perceive         computing and their place within it.
+  #       My research sits at the intersection of Human-Computer Interaction, computing education, and learning sciences. I design and study        learning environments that     #        broaden participation in computing, particularly for girls. Grounded in the DICE framework, my work examines how knowledge, value, and belonging can be               #supported #through both material and social scaffolds. Through the MyTurn social robotics program, I explore how collaborative design and            mentorship can #reshape how #young learners perceive         computing and their place within it.
 #       I use a combination of qualitative and quantitative methods, including artifact analysis, thematic analysis, and design-based             research, to understand how #learners engage with and make meaning from these experiences.
 #        Please reach out to collaborate!
  #   design:
