@@ -24,7 +24,7 @@ hugoblox:
     description: "Research interests include learning sciences, HCI, computing education, social robotics, and broadening participation in computing."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: ""              # Twitter/X handle for Twitter Cards (without @)
+    #  twitter: ""              # Twitter/X handle for Twitter Cards (without @)
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
@@ -60,7 +60,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   typography:
     # Theme pack: name from data/fonts/
-    pack: "academic"
+    pack: "minimal"
 
   # ────────────────────────────────────────────────────────────────────────────
   # LAYOUT
