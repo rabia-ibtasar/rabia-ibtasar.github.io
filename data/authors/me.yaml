@@ -12,7 +12,7 @@ postnominals:
   - PhD
   - MSE
 status:
-  icon: "☕️"
+ # icon: "☕️"
 role: Research Scientist
 bio: |
   PhD candidate at the University of Illinois Chicago working at the intersection of HCI, computing education, and learning sciences. 
@@ -39,9 +39,10 @@ links:
 
 interests:
   - Learning Tools & Technologies
-  - AI
+  - AI in Education
   - Computing Education
-  - HCI, Social Robotics
+  - HCI
+  - Social Robotics
 
 education:
   - degree: PhD Computer Science
