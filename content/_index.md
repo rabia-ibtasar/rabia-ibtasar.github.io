@@ -9,7 +9,7 @@ sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: avatar
+      username: me
       text: ' I completed my PhD  at the University of Illinois at Chicago. I have worked on several projects that sit at the intersections of Learning Sciences, Human-Computer Interaction, Computing Education, and Social Robotics. My research examines how learning environments can support girls’ participation in computing, with a focus on interest development and belonging. My dissertation introduces the MyTurn social robotics program, which integrates material and social scaffolds to engage middle school girls in CS through open-ended and collaborative project work that supports knowledge, value and belonging in CS.'
       # Show a call-to-action button under your biography? (optional)
       button:
