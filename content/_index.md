@@ -6,15 +6,15 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: resume-biography-3
+  - block: biography
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       text: ' I completed my PhD  at the University of Illinois at Chicago. I have worked on several projects that sit at the intersections of Learning Sciences, Human-Computer Interaction, Computing Education, and Social Robotics. My research examines how learning environments can support girls’ participation in computing, with a focus on interest development and belonging. My dissertation introduces the MyTurn social robotics program, which integrates material and social scaffolds to engage middle school girls in CS through open-ended and collaborative project work that supports knowledge, value and belonging in CS.'
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+    #  button:
+     #   text: Download CV
+      #  url: uploads/resume.pdf
       headings:
         about: 'About'
         education: 'Education'
@@ -27,12 +27,12 @@ sections:
 
       # Name heading sizing to accommodate long or short names
       name:
-        size: md # Options: xs, sm, md, lg (default), xl
+        size: sm # Options: xs, sm, md, lg (default), xl
 
       # Avatar customization
       avatar:
-        size: xl # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: rounded # Options: circle (default), square, rounded
+        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        shape: circle # Options: circle (default), square, rounded
   - block: markdown
  #   content:
  #     title: '📚 My Research'
