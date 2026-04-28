@@ -15,11 +15,11 @@ hugoblox:
     # Site name - shown in navbar, footer, copyright, and browser title by default
     name: "Rabia Ibtasar"
     # Legal entity for copyright notices (defaults to name if not set)
-    organization: "University of Illinois- Chicago"
+    organization: ""
     # Schema.org type for structured data
     type: person                        # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: "PhD | Learning Sciences. MSE Computers and Information Science"
+    tagline: "PhD | Learning Sciences, MSE | Computers and Information Science, BSc | Computer Science"
     # Site meta description for search engines and social sharing
     description: "Research interests include learning sciences, HCI, computing education, social robotics, and broadening participation in computing."
     # Social accounts (used for meta tags like Twitter Cards)
@@ -116,7 +116,7 @@ hugoblox:
     # Copyright notice - supports {year}, {name}, {license} placeholders
     notice: "© {year} {name}. This work is licensed under {license}"
     license:
-      type: cc                          # cc | custom
+     # type: cc                          # cc | custom
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -282,7 +282,7 @@ hugoblox:
     # Requires: HugoBlox Premium to support HugoBlox via alternative means
     # Note: Even with Premium, you can keep this false to support open source!
     # Get Premium: https://hugoblox.com/premium
-    hide_attribution: false
+    hide_attribution: true
     
     # Affiliate referral code for rewards program
     # Join affiliate program: https://hugoblox.com/affiliates
