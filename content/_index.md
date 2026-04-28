@@ -31,76 +31,76 @@ sections:
 
       # Avatar customization
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+        size: xl # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        shape: rounded # Options: circle (default), square, rounded
   - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-       My research sits at the intersection of Human-Computer Interaction, computing education, and learning sciences. I design and study        learning environments that broaden participation in computing, particularly for girls. Grounded in the DICE framework, my work            examines how knowledge, value, and belonging can be supported through both material and social scaffolds. Through the MyTurn              social robotics program, I explore how collaborative design, storytelling, and mentorship can reshape how young learners perceive         computing and their place within it.
-       I use a combination of qualitative and quantitative methods, including artifact analysis, thematic analysis, and design-based             research, to understand how learners engage with and make meaning from these experiences.
-        Please reach out to collaborate!
-    design:
-      columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
+ #   content:
+ #     title: '📚 My Research'
+  #    subtitle: ''
+   #   text: |-
+#       My research sits at the intersection of Human-Computer Interaction, computing education, and learning sciences. I design and study        learning environments that #broaden participation in computing, particularly for girls. Grounded in the DICE framework, my work            examines how knowledge, value, and belonging can be supported #through both material and social scaffolds. Through the MyTurn              social robotics program, I explore how collaborative design, storytelling, and mentorship can #reshape how young learners perceive         computing and their place within it.
+#       I use a combination of qualitative and quantitative methods, including artifact analysis, thematic analysis, and design-based             research, to understand how #learners engage with and make meaning from these experiences.
+#        Please reach out to collaborate!
+ #   design:
+  # columns: '1'
+#  - block: collection
+ #   id: papers
+  #  content:
+   #   title: Featured Publications
+    #  filters:
+     #   folders:
+      #    - publications
+       # featured_only: true
+    #design:
+     # view: article-grid
+      #columns: 2
+#  - block: collection
+ #   content:
+  #    title: Recent Publications
+   #   text: ''
+    #  filters:
+     #   folders:
+      #    - publications
+       # exclude_featured: false
+    #design:
+     # view: citation
+  #- block: collection
+   # id: talks
+   # content:
+    #  title: Recent & Upcoming Talks
+     # filters:
+      #  folders:
+       #   - events
+    #design:
+     # view: card
+  #- block: collection
+   # id: news
+    #content:
+     # title: Recent News
+      #subtitle: ''
+      #text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: blog
+      #page_type: blog
       # Choose how many pages you would like to display (0 = all pages)
-      count: 10
+      #count: 10
       # Filter on criteria
-      filters:
-        author: ''
-        category: ''
-        tag: ''
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ''
+      #filters:
+       # author: ''
+        #category: ''
+        #tag: ''
+        #exclude_featured: false
+        #exclude_future: false
+        #exclude_past: false
+        #publication_type: ''
       # Choose how many pages you would like to offset by
-      offset: 0
+      #offset: 0
       # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
+      #order: desc
+   # design:
       # Choose a layout view
-      view: card
+    #  view: card
       # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+     # spacing:
+      #  padding: [0, 0, 0, 0]
     
 ---
