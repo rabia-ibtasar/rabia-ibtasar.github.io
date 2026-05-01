@@ -19,11 +19,11 @@ hugoblox:
     # Schema.org type for structured data
     type: person                        # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: "PhD | Learning Sciences, MSE | Computers and Information Science, BSc | Computer Science"
+    tagline: "Learning Sciences and Computing Education Researcher"
     # Site meta description for search engines and social sharing
     description: "Research interests include learning sciences, HCI, computing education, social robotics, and broadening participation in computing."
     # Social accounts (used for meta tags like Twitter Cards)
-    social:
+    #social:
     #  twitter: ""              # Twitter/X handle for Twitter Cards (without @)
 
   # ────────────────────────────────────────────────────────────────────────────
@@ -60,7 +60,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   typography:
     # Theme pack: name from data/fonts/
-    pack: "modern"
+    pack: "minimal"
 
   # ────────────────────────────────────────────────────────────────────────────
   # LAYOUT
