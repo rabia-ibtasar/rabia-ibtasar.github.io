@@ -5,19 +5,17 @@ name:
   display: Dr. Rabia Ibtasar
   given: Rabia 
   family: Ibtasar
-  alternate: ''  # Example: 王伟
-  pronunciation: '(RA-bee-YAH)'  # Example: Wáng Wěi
-  pronouns: she/her
+  #alternate: ''  # Example: 王伟
+  #pronunciation: '(RA-bee-YAH)'  # Example: Wáng Wěi
+  #pronouns: she/her
 postnominals:
   - PhD
   - MSE
 status:
  # icon: "☕️"
-role: Research Scientist
+#role: Research Scientist
 bio: |
-  PhD candidate at the University of Illinois Chicago working at the intersection of HCI, computing education, and learning sciences. 
-  My research focuses on designing learning environments that broaden participation in computing.
-
+  My work is at the intersection of HCI, computing education, and learning sciences. My research focuses on the design of learning tools, technologies and curriculum. 
 affiliations:
   - name: UIC
     url: https://www.uiclitlab.com/people
