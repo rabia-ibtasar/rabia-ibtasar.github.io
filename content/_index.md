@@ -17,12 +17,12 @@ sections:
         size: medium
         shape: rounded
     - block: collection
-    id: papers
-    content:
-      title: "Selected Publications"
-      filters:
-        folders:
-          - publication
-      count: 5
+      id: papers
+      content:
+        title: "Selected Publications"
+        filters:
+          folders:
+            - publication
+        count: 5
     
 ---
