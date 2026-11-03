@@ -19,3 +19,7 @@ main:
   - name: Blog
     url: /blog/
     weight: 40
+
+  - name: Download CV
+    url: /uploads/Rabia_Ibtasar_CV.pdf
+    weight: 50

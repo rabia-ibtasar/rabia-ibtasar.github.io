@@ -7,7 +7,7 @@ name:
   given: Rabia
   family: Ibtasar
 
-role: Learning Sciences & Computing Education Researcher
+role: Learning Sciences & HCI Researcher
 
 bio: |
   I study how the design of technologies and the social environments surrounding their use shape learning, interest, and participation. My work brings together learning sciences, human–computer interaction, computing education, and social robotics.
@@ -27,9 +27,12 @@ links:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/rabia-ibtasar/
     label: LinkedIn
-  - icon: academic-cap
-    url: https://www.uiclitlab.com/
-    label: Learning + Interest + Technology Lab
+  - icon: academicons/google-scholar
+    url: "https://scholar.google.com/citations?user=zKnt7KoAAAAJ&hl=en"
+    label: Google Scholar
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-1435-1384
+    label: ORCID
 
 interests:
   - Learning Sciences
@@ -46,6 +49,7 @@ education:
       Dissertation: Broadening Participation of Girls in Computing:
       An Integrated Approach to Supporting Interest in CS.
       Advisor: Dr. Joseph E. Michaelis.
+      Committee Members: Dr. Donald J. Wink, Dr. Minjung Ryu, Dr. Shanon Reckinger, Dr. Allison Master
 
   - degree: Master’s in Computer and Information Science
     institution: University of Pennsylvania
