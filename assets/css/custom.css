@@ -59,3 +59,28 @@ p {
 .biography .avatar {
   margin-bottom: 0.5rem;
 }
+
+/* Make the About biography more compact */
+#about .prose,
+
+#about p,
+
+#about li,
+
+#research-interests .prose,
+
+#research-interests p,
+
+#research-interests li,
+
+#research-methods .prose,
+
+#research-methods p,
+
+#research-methods li {
+
+  font-size: 16px !important;
+
+  line-height: 1.55 !important;
+
+}
