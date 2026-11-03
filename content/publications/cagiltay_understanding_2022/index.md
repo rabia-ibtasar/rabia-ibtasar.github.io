@@ -3,7 +3,7 @@ title: "Understanding Factors that Shape Children’s Long Term Engagement with 
 authors:
   - "Bengisu Cagiltay"
   - "Nathan Thomas White"
-  - "Rabia Ibtasar"
+  - me
   - "Bilge Mutlu"
   - "Joseph Michaelis"
 date: "2022-06-01"
