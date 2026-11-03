@@ -1,7 +1,6 @@
-
 ---
 sections:
-   - block: biography
+  - block: biography
     id: about
     content:
       username: me
@@ -17,4 +16,3 @@ sections:
     design:
       view: citation
 ---
-
