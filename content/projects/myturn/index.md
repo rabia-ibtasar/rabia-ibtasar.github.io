@@ -8,6 +8,9 @@ tags:
   - Computing Education
   - Social Robotics
   - Interest Development
+
+image:
+  caption: "AI-generated illustration representing the project."
 ---
 
 MyTurn brings together social robotics, personally meaningful programming projects, peer collaboration, and mentorship to support middle school girls’ interest and participation in computing.

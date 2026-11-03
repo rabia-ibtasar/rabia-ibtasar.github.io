@@ -8,6 +8,8 @@ tags:
   - Learning Technologies
   - Human-Robot Interaction
   - Human-Centered AI
+image:
+  caption: "AI-generated illustration representing the project."
 ---
 
 PATHWiSE—the Personalized Augmenting Tool for Homework in Science Education—is a teacher-facing system for creating customized robot-assisted reading activities.

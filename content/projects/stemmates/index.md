@@ -8,6 +8,8 @@ tags:
   - Human-Robot Interaction
   - Science Learning
   - Interest Development
+image:
+  caption: "AI-generated illustration representing the project."
 ---
 
 STEMMates investigates how a social robot can support middle school students’ science reading and learning at home.
