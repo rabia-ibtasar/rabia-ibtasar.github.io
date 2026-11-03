@@ -84,3 +84,11 @@ p {
   line-height: 1.55 !important;
 
 }
+
+#research-interests {
+  padding-bottom: 12px !important;
+}
+
+#research-methods {
+  padding-top: 12px !important;
+}
