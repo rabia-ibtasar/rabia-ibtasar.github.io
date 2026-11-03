@@ -21,5 +21,5 @@ main:
     weight: 40
 
   - name: Download CV
-    url: https://rabia-ibtasar.github.io/uploads/Rabia_Ibtasar_CV.pdf
+    url: https://rabia-ibtasar.github.io/uploads/rabia_ibtasar_CV.pdf
     weight: 50
