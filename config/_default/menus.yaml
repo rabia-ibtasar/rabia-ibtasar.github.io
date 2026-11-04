@@ -16,6 +16,10 @@ main:
     url: /projects/
     weight: 30
 
+  - name: Teaching & Engagement
+    url: /teaching/
+    weight: 35
+
   - name: Blog
     url: /blog/
     weight: 40
