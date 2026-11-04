@@ -7,7 +7,7 @@ name:
   given: Rabia
   family: Ibtasar
 
-role: Learning Sciences & HCI Researcher
+role: Learning Sciences & Human-Computer Interaction Researcher
 
 bio: |
   My research goal is to design, build, and evaluate technology-facilitated learning environments. My work brings together learning sciences, human–computer interaction, computing education, and social robotics.
@@ -23,6 +23,7 @@ bio: |
   ![Illustration of collaborative learning with interactive technologies and a social robot](/uploads/research-overview.png)
 
   *AI-generated illustration representing my research.*
+  
 links:
   - icon: at-symbol
     url: mailto:ribtasar@gmail.com

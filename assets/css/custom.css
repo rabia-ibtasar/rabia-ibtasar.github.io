@@ -92,3 +92,67 @@ p {
 #research-methods {
   padding-top: 12px !important;
 }
+
+/* Desktop: profile on the left, biography on the right */
+@media (min-width: 900px) {
+  #about #profile {
+    display: grid !important;
+    grid-template-columns: 230px minmax(0, 1fr);
+    grid-template-rows: 200px max-content max-content max-content 1fr;
+    column-gap: 48px;
+    align-items: start !important;
+    width: 100%;
+    max-width: 1100px;
+    margin-inline: auto;
+    padding-inline: 24px;
+    box-sizing: border-box;
+  }
+
+  #about #profile > .avatar-wrapper {
+    grid-column: 1;
+    grid-row: 1;
+    margin: 0 auto !important;
+  }
+
+  #about #profile > .text-3xl {
+    grid-column: 1;
+    grid-row: 2;
+    margin-top: 18px !important;
+    text-align: center;
+    font-size: 26px;
+  }
+
+  #about #profile > h3 {
+    grid-column: 1;
+    grid-row: 3;
+    text-align: center;
+    font-size: 16px;
+  }
+
+  #about #profile > .network-icon {
+    grid-column: 1;
+    grid-row: 4;
+    justify-self: center;
+  }
+
+  #about #profile > .prose {
+    grid-column: 2;
+    grid-row: 1 / 6;
+    width: 100%;
+    max-width: none !important;
+    padding-top: 0 !important;
+    margin: 0 !important;
+  }
+
+  #about .bio-text {
+    max-width: none !important;
+  }
+}
+
+/* Research illustration within the biography */
+#about .bio-text img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin-top: 24px;
+}
