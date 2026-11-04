@@ -23,7 +23,7 @@ main:
   - name: Download CV
     url: https://rabia-ibtasar.github.io/uploads/rabia_ibtasar_CV.pdf
     weight: 50
-    
+
   - name: Fun Things
     url: /fun-things/
-    weight: 45
+    weight: 60
