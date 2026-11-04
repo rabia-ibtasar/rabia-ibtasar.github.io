@@ -13,10 +13,6 @@ image:
   caption: "AI-generated illustration representing the project."
 ---
 
-![Girls programming a social robot with a mentor](featured.png)
-
-*AI-generated illustration representing the project.*
-
 MyTurn brings together social robotics, personally meaningful programming projects, peer collaboration, and mentorship to support middle school girls’ interest and participation in computing.
 
 ## My Contributions

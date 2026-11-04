@@ -18,4 +18,6 @@ Built on the Misty robot platform, the STEMMate learning companion provides comm
 
 The project brings together learning sciences and human–robot interaction to explore how interactions with a robot can complement educational materials and support learning beyond the classroom.
 
+I contributed to this project by developing a social commentary framework which included knowledge support, social support and interest support comments for the social robot that were specifically tailored to the STEM books selected for this project. This framework was later used again for a subsequent project that used the Misty social robot as a homework companion robot for children.
+
 [Learn more on the lab website](https://www.uiclitlab.com/stemmates)
