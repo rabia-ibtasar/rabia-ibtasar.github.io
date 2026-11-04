@@ -156,3 +156,8 @@ p {
   height: auto;
   margin-top: 24px;
 }
+
+/* Hide the footer promotional button */
+a[data-hbx="poweredby_cta"] {
+  display: none !important;
+}
