@@ -19,7 +19,10 @@ bio: |
   My broader research includes in-home robot learning companions and teacher-facing tools for designing robot-assisted learning experiences. I use iterative design and mixed methods to understand learners’ experiences and inform technology design.
 
   My future research vision builds on my previous work to investigate the design of AI-enabled technologies that can adapt to learners’ evolving needs and complement social scaffolds embedded within authentic learning contexts to support learning and interest.
+  
+  ![Illustration of collaborative learning with interactive technologies and a social robot](/uploads/research-overview.png)
 
+  *AI-generated illustration representing my research.*
 links:
   - icon: at-symbol
     url: mailto:ribtasar@gmail.com
@@ -33,6 +36,7 @@ links:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1435-1384
     label: ORCID
+  
 
 interests:
   - Learning Sciences
