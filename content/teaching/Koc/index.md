@@ -7,7 +7,8 @@ tags:
   - HRI
   - Social Robotics
   - AI
-
+image:
+  filename: featured.jpeg
 ---
 <!---![Koç Üniversitesi](koc.JPG) --->
 
