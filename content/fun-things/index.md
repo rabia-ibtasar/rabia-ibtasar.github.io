@@ -5,6 +5,6 @@ summary: "Life beyond research."
 
 Life beyond research.
 
-![Description of your first photo](photo1.jpg)
+![Dr. Rabia Ibtasar (May 2026) UIC](photo1.jpg)
 
-![Description of your second photo](photo2.jpg)
+![My happy place](photo2.jpg)
