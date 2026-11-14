@@ -8,7 +8,7 @@ tags:
   - Social Robotics
   - AI
 image:
-  filename: featured.jpeg
+  filename: featured.JPG
 ---
 <!---![Koç Üniversitesi](koc.JPG) --->
 
