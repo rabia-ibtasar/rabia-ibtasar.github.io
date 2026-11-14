@@ -6,7 +6,7 @@ sections:
   - block: collection
     content:
       title: Teaching & Engagement
-      text: "Teaching, coaching, mentoring"
+      text: "Teaching, coaching, mentoring and Engagement"
       filters:
         folders:
           - teaching
