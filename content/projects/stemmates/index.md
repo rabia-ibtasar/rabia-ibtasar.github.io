@@ -1,5 +1,5 @@
 ---
-title: "STEMMates: In-Home Robot Learning Companions"
+title: "In-Home Robot Learning Companions for Children"
 summary: "Exploring how social robots can support science reading, engagement, and interest at home."
 links:
   - type: site

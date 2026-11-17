@@ -1,5 +1,5 @@
 ---
-title: "PATHWiSE: Teacher-Designed Robot-Assisted Learning"
+title: "Robot-Assisted Learning"
 summary: "Enabling teachers to customize robot-assisted reading experiences for students learning at home."
 links:
   - type: site
@@ -20,6 +20,6 @@ The system translates these choices into robot interactions that provide knowled
 
 ## My Contributions
 
-I contributed to the design of PATHWiSE as part of an interdisciplinary research team.
+I contributed to the design of PATHWiSE as part of an interdisciplinary research team. The AI generated suggested comments were based on the social robot commentary framework I designed in a previous study. In addition, I ran co-design studies with students in a pilot study to generate design insights for robot speech and emotional expresssions.
 
 [Learn more and view demonstrations on the lab website](https://www.uiclitlab.com/pathwise)

@@ -5,7 +5,7 @@ type: landing
 sections:
   - block: collection
     content:
-      title: Research Projects
+      title: Projects
       text: "My research explores how interactive technologies and social supports shape learning, interest, and participation."
       count: 0
       filters:
